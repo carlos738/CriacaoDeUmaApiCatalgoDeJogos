@@ -1,2 +1,2 @@
-# CriacaoDeUmaApiCatalgoDeJogos
+# CriacaoDeUmaApiCatalgoDeJogosMvc
 CRIANDO UMA API MVC DE CATALOGODE JOGOS MVC COM LINGUAGEM C#
