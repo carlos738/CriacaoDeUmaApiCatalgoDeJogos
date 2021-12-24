@@ -1,0 +1,15 @@
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\bin\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.deps.json
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\bin\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.runtimeconfig.json
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\bin\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\bin\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.dll
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\bin\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.pdb
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.RazorAssemblyInfo.cache
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.RazorAssemblyInfo.cs
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.AssemblyInfo.cs
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.RazorTargetAssemblyInfo.cache
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.dll
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\CriaçãoDeUmaApiCatlogoDeJogos.pdb
+C:\Users\HOME\source\repos\CriaçãoDeUmaApiCatlogoDeJogos\CriaçãoDeUmaApiCatlogoDeJogos\obj\Debug\netcoreapp2.2\EFCoreSqlServerNetTopologySuite.cs
